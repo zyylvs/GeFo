@@ -123,3 +123,4 @@ For more information on both of these topics, please see the section on
 redistributing Visual C++ applications in MSDN documentation.
 
 /////////////////////////////////////////////////////////////////////////////
+test only.
